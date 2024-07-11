@@ -1,1 +1,1 @@
-# Airline_Customer_Satisfaction
+Designed an Airline Customer Satisfaction Model using Python: Evaluated 22 features in the dataset and 120000 plus rows to develop data driven insights. Algorithms applied in the model are Logistic Regression and Decision Trees.
