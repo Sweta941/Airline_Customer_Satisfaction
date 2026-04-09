@@ -227,4 +227,3 @@ airline-customer-satisfaction/
 Data Science Portfolio Project  
 
 
-*If you found this project useful or interesting, please consider giving it a ⭐ on GitHub!*
