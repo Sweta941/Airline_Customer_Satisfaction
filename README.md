@@ -20,7 +20,6 @@
 - [Machine Learning Results](#-machine-learning-results)
 - [Business Recommendations](#-business-recommendations)
 - [Tech Stack](#-tech-stack)
-- [How to Run](#-how-to-run)
 - [Project Structure](#-project-structure)
 - [Author](#-author)
 
@@ -206,28 +205,6 @@ Only 24% of personal travellers are satisfied — a massive untapped segment. Ta
 
 ---
 
-## ▶️ How to Run
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/airline-customer-satisfaction.git
-cd airline-customer-satisfaction
-```
-
-### 2. Install Dependencies
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn scipy jupyter
-```
-
-### 3. Add the Dataset
-Place `Airline_customer_satisfaction.csv` in the root directory (or update the file path in the notebook).
-
-### 4. Launch the Notebook
-```bash
-jupyter notebook Airline_Customer_Satisfaction.ipynb
-```
-
-> Run all cells top to bottom. Each section is clearly labelled and includes interpretation comments.
 
 ---
 
@@ -246,12 +223,8 @@ airline-customer-satisfaction/
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Sweta Mehta]**  
 Data Science Portfolio Project  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
-
----
 
 *If you found this project useful or interesting, please consider giving it a ⭐ on GitHub!*
