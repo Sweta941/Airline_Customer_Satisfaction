@@ -213,7 +213,7 @@ Only 24% of personal travellers are satisfied — a massive untapped segment. Ta
 ```
 airline-customer-satisfaction/
 ├── Airline_Customer_Satisfaction.ipynb          # Main analysis notebook
-├── Airline_customer_satisfaction (PPT).pdf      # Raw dataset (add here)
+├── Airline_customer_satisfaction (PPT).pdf      # Project PPT
 └── README.md                                    # This file
 ```
 
