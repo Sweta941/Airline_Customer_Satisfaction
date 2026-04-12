@@ -223,6 +223,7 @@ airline-customer-satisfaction/
 
 **[Sweta Mehta]**  
 
-Data Science Portfolio Project  
+Data Analyst | Data Science Portfolio Project  
 
-
+------
+------
